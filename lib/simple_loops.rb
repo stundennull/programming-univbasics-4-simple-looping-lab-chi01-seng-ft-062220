@@ -33,7 +33,7 @@ def output_array(array)
    count += 1
   end
     array = ["5", "4", "3", "2", "1"]
-    count =1
+    count = 0
       while count <= array.length do
         puts array[count]
         count += 1
